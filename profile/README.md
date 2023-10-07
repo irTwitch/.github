@@ -1,6 +1,6 @@
 # Welcome to the IrTwitch GitHub Organization
 
-![IrTwitch Logo]([https://your-logo-url-here.png](https://avatars.githubusercontent.com/u/111855883?s=200&v=4))
+![IrTwitch Logo](https://avatars.githubusercontent.com/u/111855883?s=200&v=4))
 
 This organization hosts a collection of projects related to IrTwitch, focusing on providing tools and solutions for the Twitch streaming community in Iran. Feel free to explore our repositories and contribute to the projects that interest you.
 
